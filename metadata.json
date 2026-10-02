@@ -1,0 +1,6 @@
+{
+  "name": "Burçman Otel | Luxury Hotel in Bursa, Türkiye",
+  "description": "Experience luxury, comfort, and Turkish hospitality at Burçman Otel in Osmangazi, Bursa. Premium rooms, suites, and central location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
