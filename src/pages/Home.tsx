@@ -371,8 +371,8 @@ export default function Home({ onOpenBooking, onSelectRoom }: HomeProps) {
               { title: "Turkish Breakfast Spread", img: HOTEL_INFO.images.breakfast, tag: "Dining" },
               { title: "Executive Panorama View", img: HOTEL_INFO.images.executiveSuite, tag: "Suites" },
               { title: "Osmangazi City & Uludağ", img: HOTEL_INFO.images.bursaAttractions, tag: "Bursa" },
-              { title: "Quiet & Soundproof Rooms", img: "/src/assets/images/quiet_luxury_stay_1790943611079.jpg", tag: "Comfort" },
-              { title: "Traditional Tea Service", img: "/src/assets/images/guest_focused_service_1790943684182.jpg", tag: "Service" }
+              { title: "Quiet & Soundproof Rooms", img: "/assets/images/quiet_luxury_stay_1790943611079.jpg", tag: "Comfort" },
+              { title: "Traditional Tea Service", img: "/assets/images/guest_focused_service_1790943684182.jpg", tag: "Service" }
             ].map((photo, i) => (
               <div
                 key={i}
